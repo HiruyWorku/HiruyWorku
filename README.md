@@ -11,7 +11,7 @@
 
 - 📧 How to reach me? **Connect to me via Email [Hiruy](mailto:hiruyworku00@gmail.com)**
 
-- Interested in learning **Cloud, Machine Learning, AI and Computer vision.n**
+- Interested in learning **Cloud, Machine Learning, AI, and Computer vision**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
