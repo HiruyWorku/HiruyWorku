@@ -7,7 +7,7 @@
 
 - 🤜🏻🤛🏻 I’m looking to collaborate on **JavaScript based projects**
 
-- 💬 Ask me about **C, Java, HTML, CSS, JavaScript, Python, Typescript and Bash**
+- 💬 Ask me about **C, Java, JavaScript, Python, Typescript and Bash**
 
 - 📧 How to reach me? **Connect to me via Email [Hiruy](mailto:hiruyworku00@gmail.com)**
 
