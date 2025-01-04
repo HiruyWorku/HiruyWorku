@@ -3,7 +3,7 @@
 
 <!-- - 💼 I’m currently working on [The Simon Game](https://github.com/Devesh-19/The-Simon-Game) -->
 
-- 💻 I’m currently learning about **Backend, DevOps, Cybersecurity and Database Systems.**
+- 💻 I’m currently learning about **Backend, DevOps, Cybersecurity, and AI engineering.**
 
 - 🤜🏻🤛🏻 I’m looking to collaborate on **JavaScript based projects**
 
@@ -11,7 +11,7 @@
 
 - 📧 How to reach me? **Connect to me via Email [Hiruy](mailto:hiruyworku00@gmail.com)**
 
-- Interested in learning **Cloud, Machine Learning, AI, and Computer vision**
+- Interested in learning **Cloud, Machine Learning, and Computer vision**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
