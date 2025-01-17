@@ -5,13 +5,13 @@
 
 - 💻 I’m currently learning about **Backend, DevOps, Cybersecurity, and AI engineering.**
 
-- 🤜🏻🤛🏻 I’m looking to collaborate on **JavaScript based projects**
+- 🤜🏻🤛🏻 I’m looking to collaborate on **JavaScript based projects.**
 
-- 💬 Ask me about **C, Java, JavaScript, Python, Typescript and Bash**
+- 💬 Ask me about **C, Java, JavaScript, Python, Typescript and Bash.**
 
 - 📧 How to reach me? **Connect to me via Email [Hiruy](mailto:hiruyworku00@gmail.com)**
 
-- Interested in learning **Cloud, Machine Learning, and Computer vision**
+- Interested in learning **Cloud, Machine Learning, and Computer vision.**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
