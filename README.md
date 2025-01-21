@@ -3,7 +3,7 @@
 
 <!-- - 💼 I’m currently working on [The Simon Game](https://github.com/Devesh-19/The-Simon-Game) -->
 
-- 💻 I’m currently learning about **Backend, DevOps, Cybersecurity, and AI engineering.**
+- 💻 I’m currently learning about **DevOps, Cybersecurity, Data Science and AI engineering.**
 
 - 🤜🏻🤛🏻 I’m looking to collaborate on **JavaScript based projects.**
 
