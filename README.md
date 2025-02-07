@@ -3,15 +3,13 @@
 
 <!-- - 💼 I’m currently working on [The Simon Game](https://github.com/Devesh-19/The-Simon-Game) -->
 
-- 💻 I’m currently learning about **DevOps, Cybersecurity, Data Science and AI engineering.**
+- 💻 I’m currently learning about **Reinforcement Learning, UI Design, Advanced Algorithms, GoLang.**
 
 - 🤜🏻🤛🏻 I’m looking to collaborate on **JavaScript based projects.**
 
-- 💬 Ask me about **C, Java, JavaScript, Python, Typescript and Bash.**
+- 💬 Ask me about **C, Java, JavaScript, Python.**
 
 - 📧 How to reach me? **Connect to me via Email [Hiruy](mailto:hiruyworku00@gmail.com)**
-
-- Interested in learning **Cloud, Machine Learning, and Computer vision.**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
