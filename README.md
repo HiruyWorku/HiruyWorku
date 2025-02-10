@@ -7,8 +7,6 @@
 
 - 🤜🏻🤛🏻 I’m looking to collaborate on **JavaScript based projects.**
 
-- 💬 Ask me about **C, Java, JavaScript, Python.**
-
 - 📧 How to reach me? **Connect to me via Email [Hiruy](mailto:hiruyworku00@gmail.com)**
 
 <p align="left">
