@@ -5,7 +5,7 @@
 
 - 💻 I’m currently learning about **Reinforcement Learning, UI Design, Advanced Algorithms, GoLang.**
 
-- 🔫 weapon of choice **JavaScript**
+- 🔫 weapon of choice = **JavaScript**
 
 - 📧 How to reach me? **Connect to me via Email [Hiruy](mailto:hiruyworku00@gmail.com)**
 
