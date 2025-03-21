@@ -3,7 +3,7 @@
 
 <!-- - 💼 I’m currently working on [The Simon Game](https://github.com/Devesh-19/The-Simon-Game) -->
 
-- 💻 I’m currently learning about **Reinforcement Learning, UI Design, Advanced Algorithms, GoLang, AI.**
+- 💻 I’m currently learning about **Reinforcement Learning, UI Design, Advanced Algorithms, PHP..**
 
 - 🔫 weapon of choice = **JavaScript**
 
