@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Hiruy</h1>
+<h1 align="center">Hi, I'm Hiruy(</h1>
 <h3 align="center">I'm a Student Developer!</h3>
 
 <!-- - 💼 I’m currently working on [The Simon Game](https://github.com/Devesh-19/The-Simon-Game) -->
 
 - 💻 I’m currently learning about **Reinforcement Learning, UI Design, Advanced Algorithms, CUDA & GPU optimization and PHP.**
 
-- 🔫 weapon of choice = **JavaScript**
+- 🔫 Weapon of choice = **JavaScript**
 
 - 📧 How to reach me? **Connect to me via Email [Hiruy](mailto:hiruyworku00@gmail.com)**
 
