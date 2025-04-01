@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Hiruy(</h1>
+<h1 align="center">Hi, I'm Hiruy</h1>
 <h3 align="center">I'm a Student Developer!</h3>
 
 <!-- - 💼 I’m currently working on [The Simon Game](https://github.com/Devesh-19/The-Simon-Game) -->
