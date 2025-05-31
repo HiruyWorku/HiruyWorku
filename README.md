@@ -7,12 +7,12 @@
 
 - Proud hater and lover of **JavaScript**
 
-- **to reach me via Email: [Hiruy](mailto:hiruyworku00@gmail.com)**
+- **To reach me via Email: [Hiruy](mailto:hiruyworku00@gmail.com)**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3> 
 <a href=https://www.linkedin.com/in/hiruyworku/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="devesh-kumar-singh-b43580136" height="30" width="40" /> </a>
-  
+
 <!-- Language and Tools -->
 
 <h3 align="left">Languages and Tools:</h3>
@@ -66,6 +66,54 @@
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
   </a>
+
+  <!-- Newly added tools -->
+  <a href="https://golang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
+  </a>
+  <a href="https://angular.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40" />
+  </a>
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="sql" width="40" height="40" />
+  </a>
+  <a href="https://www.r-project.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" />
+  </a>
+  <a href="https://developer.nvidia.com/cuda-zone" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/CUDA_logo.svg" alt="cuda" width="40" height="40" />
+  </a>
+  <a href="https://platform.openai.com/" target="_blank">
+    <img src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png" alt="openai" width="40" height="40" />
+  </a>
+  <a href="https://jupyter.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40" />
+  </a>
+  <a href="https://colab.research.google.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Google_Colaboratory_Logo.svg" alt="google colab" width="40" height="40" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
+  </a>
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40" />
+  </a>
 </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devesh-19&layout=compact&theme=midnight-purple" alt="Devesh-19" /></p>
