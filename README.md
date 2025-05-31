@@ -1,16 +1,16 @@
-<h1 align="center">Hi, I'm Hiruy</h1>
-<h3 align="center">I'm a Student Developer!</h3>
+<h1 align="center">I'm Hiruy(Ru) Worku</h1>
+<h3 align="center">Student + Engineer</h3>
 
 <!-- - 💼 I’m currently working on [The Simon Game](https://github.com/Devesh-19/The-Simon-Game) -->
 
-- 💻 I’m currently learning about **Reinforcement Learning, UI Design, Advanced Algorithms, CUDA & GPU optimization and PHP.**
+- I’m learning about **Reinforcement Learning, Autonomous Agents, Advanced Algorithms, CUDA & GPU optimization, and React.**
 
-- 🔫 Weapon of choice = **JavaScript**
+- Proud hater and lover of **JavaScript**
 
-- 📧 How to reach me? **Connect to me via Email [Hiruy](mailto:hiruyworku00@gmail.com)**
+- **to reach me via Email: [Hiruy](mailto:hiruyworku00@gmail.com)**
 
 <p align="left">
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> 
 <a href=https://www.linkedin.com/in/hiruyworku/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="devesh-kumar-singh-b43580136" height="30" width="40" /> </a>
   
 <!-- Language and Tools -->
