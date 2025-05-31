@@ -15,7 +15,7 @@
 
 <!-- Language and Tools -->
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages, Tools and Frameworks:</h3>
 
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank">
@@ -26,12 +26,6 @@
   </a>
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
   </a>
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
@@ -57,9 +51,6 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
   </a>
-  <a href="https://www.photoshop.com/en" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
-  </a>
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
   </a>
@@ -80,9 +71,6 @@
   <a href="https://www.php.net/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
   </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40" />
-  </a>
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="sql" width="40" height="40" />
   </a>
@@ -92,23 +80,8 @@
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
   </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" />
-  </a>
-  <a href="https://developer.nvidia.com/cuda-zone" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/CUDA_logo.svg" alt="cuda" width="40" height="40" />
-  </a>
-  <a href="https://platform.openai.com/" target="_blank">
-    <img src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png" alt="openai" width="40" height="40" />
-  </a>
   <a href="https://jupyter.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40" />
-  </a>
-  <a href="https://colab.research.google.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Google_Colaboratory_Logo.svg" alt="google colab" width="40" height="40" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
   </a>
   <a href="https://kubernetes.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40" />
