@@ -3,7 +3,7 @@
 
 <!-- - 💼 I’m currently working on [The Simon Game](https://github.com/Devesh-19/The-Simon-Game) -->
 
-- I’m learning about **Reinforcement Learning, Autonomous Agents, Advanced Algorithms, CUDA & GPU optimization, and React.**
+- I’m learning: **Reinforcement Learning, Autonomous Agents, Advanced Algorithms, CUDA & GPU optimization, and React.**
 
 - Proud hater and lover of **JavaScript**
 
