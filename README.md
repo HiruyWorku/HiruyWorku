@@ -5,7 +5,7 @@
 
 - I’m learning: **Reinforcement Learning, Autonomous Agents, Advanced Algorithms, CUDA & GPU optimization, and React.**
 
-- Proud hater and lover of **JavaScript**
+- Proud hater and lover of **JavaScript**.
 
 - **To reach me via Email: [Hiruy](mailto:hiruyworku00@gmail.com)**
 
