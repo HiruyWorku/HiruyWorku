@@ -1,5 +1,5 @@
 <h1 align="center">I'm Hiruy (Ru) Worku</h1>
-<!-- <h3 align="center">Student + Engineer</h3> -->
+<h3 align="center">Student + Engineer</h3>
 
 ---
 
