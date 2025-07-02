@@ -16,7 +16,6 @@
 
 <p align="left">
 
-<!-- you already have great icons here, I would suggest reordering for priority -->
 
 <!-- AI / ML / Data first -->
 <a href="https://www.python.org" target="_blank">
@@ -79,7 +78,6 @@
 
 ---
 
-<!-- You had this section, but update username -->
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiruyworku&layout=compact&theme=midnight-purple" alt="hiruyworku" />
 </p>
