@@ -12,7 +12,7 @@
 
 ---
 
-<h3 align="left">Languages, Tools & Frameworks:</h3>
+<h3 align="left">Languages, Tools & Frameworks:-</h3>
 
 <p align="left">
 
