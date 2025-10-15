@@ -1,9 +1,9 @@
-<h1 align="center">I'm Hiruy (Ru) Worku</h1>
+<h1 align="center">I'm Hiruy (Ru)</h1>
 <h3 align="center">Student + Engineer</h3>
 
 ---
 
--  **Current focus:** Reinforcement Learning, Agentic AI Systems, Advanced Algorithms, CUDA & GPU Optimization, LLM Pipelines.
+-  **Current focus:** Reinforcement Learning, Agentic AI Systems, CUDA & GPU Optimization.
 -  Building multi-agent architectures, AI co-pilots, and scalable cloud-native apps.
 -  Actively contributing to open source SECO research (World of Code, Software Heritage).
 -  Proud hater and lover of **JavaScript**.
