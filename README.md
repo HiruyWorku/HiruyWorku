@@ -78,6 +78,9 @@
 
 ---
 
-<p>
+<!-- <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiruyworku&layout=compact&theme=midnight-purple" alt="hiruyworku" />
-</p>
+</p> -->
+
+[![Hiruy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HiruyWorku&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
