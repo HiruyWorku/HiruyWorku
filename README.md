@@ -1,4 +1,4 @@
-<h1 align="center">I'm Hiruy (Ru)</h1>
+<h1 align="center">I'm Hiruy(Ru)</h1>
 <h3 align="center">Student + Engineer</h3>
 
 ---
