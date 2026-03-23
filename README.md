@@ -1,5 +1,3 @@
-**hiruy worku** // student + engineer
-
 building agents that coordinate. \
 making GPUs work harder. \
 contributing to how code is remembered. \
