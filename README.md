@@ -1,86 +1,43 @@
-<h1 align="center">I'm Hiruy</h1>
-<h3 align="center">Student + Engineer</h3>
+**hiruy worku** // student + engineer
 
----
+building agents that coordinate. \
+making GPUs work harder. \
+contributing to how code is remembered. \
+working on my love-hate relationship with JavaScript. 
 
--  **Current focus:** Reinforcement Learning, Agentic AI Systems, CUDA & GPU Optimization.
--  Building multi-agent architectures, AI co-pilots, and scalable cloud-native apps.
--  Actively contributing to open source SECO research (World of Code, Software Heritage).
--  Proud hater and lover of **JavaScript**.
-
--  **Contact:** [Email](mailto:hiruyworku00@gmail.com) | [LinkedIn](https://www.linkedin.com/in/hiruyworku) | [Portfolio](https://hiruyworku.com)
-
----
-
-<h3 align="left">Languages, Tools & Frameworks:-</h3>
-
-<p align="left">
-
-
-<!-- AI / ML / Data first -->
-<a href="https://www.python.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-</a>
-<a href="https://pytorch.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40" />
-</a>
-<a href="https://jupyter.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40" />
-</a>
-<a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
-</a>
-<a href="https://www.postgresql.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="sql" width="40" height="40" />
-</a>
-
-<!-- Backend / Infra -->
-<a href="https://nodejs.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-</a>
-<a href="https://fastapi.tiangolo.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg" alt="fastapi" width="40" height="40" />
-</a>
-<a href="https://www.docker.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
-</a>
-<a href="https://kubernetes.io/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40" />
-</a>
-<a href="https://aws.amazon.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
-</a>
-<a href="https://azure.microsoft.com/en-in/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" />
-</a>
-
-<!-- Frontend -->
-<a href="https://reactjs.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-</a>
-<a href="https://angular.io/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
-</a>
-<a href="https://www.w3.org/html/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-</a>
-<a href="https://www.w3.org/Style/CSS/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40" />
-</a>
-
+<p>
+  <a href="mailto:hiruyworku00@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/hiruyworku"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://hiruyworku.com"><img src="https://img.shields.io/badge/portfolio-000000.svg?&style=for-the-badge&logo=githubpages&logoColor=white" /></a>
 </p>
 
 ---
 
-<!-- <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiruyworku&layout=compact&theme=midnight-purple" alt="hiruyworku" />
-</p> -->
+<details>
+  <summary><b> &nbsp;tech stack</b></summary>
+  <br/>
 
-[![Hiruy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HiruyWorku&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C.svg?&style=flat&logo=pytorch&logoColor=white) 
+![CUDA](https://img.shields.io/badge/CUDA-76B900.svg?&style=flat&logo=nvidia&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-007ACC.svg?&style=flat&logo=typescript&logoColor=white) 
+![React](https://img.shields.io/badge/REACT-61DAFB.svg?&style=flat&logo=react&logoColor=black) 
+![FastAPI](https://img.shields.io/badge/FASTAPI-009688.svg?&style=flat&logo=fastapi&logoColor=white) 
+![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5.svg?&style=flat&logo=kubernetes&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-316192.svg?&style=flat&logo=postgresql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat&logo=mongodb&logoColor=white) 
 
+</details>
+
+<details>
+  <summary><b> &nbsp;always learning</b></summary>
+  <br/>
+
+![RL](https://img.shields.io/badge/REINFORCEMENT%20LEARNING-7F77DD.svg?&style=flat&logoColor=white) 
+![Multi-Agent](https://img.shields.io/badge/MULTI--AGENT%20SYSTEMS-1D9E75.svg?&style=flat&logoColor=white) 
+![CUDA Kernels](https://img.shields.io/badge/CUDA%20KERNELS-76B900.svg?&style=flat&logo=nvidia&logoColor=white) 
+![Open Source](https://img.shields.io/badge/OPEN%20SOURCE-BA7517.svg?&style=flat&logo=opensourceinitiative&logoColor=white) 
+
+</details>
