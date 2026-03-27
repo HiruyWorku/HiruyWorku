@@ -12,7 +12,7 @@ working on my love-hate relationship with JavaScript.
 ---
 
 <details>
-  <summary><b> &nbsp;tech stack</b></summary>
+  <summary><b> &nbsp;stack</b></summary>
   <br/>
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white) 
@@ -30,7 +30,7 @@ working on my love-hate relationship with JavaScript.
 </details>
 
 <details>
-  <summary><b> &nbsp;always learning</b></summary>
+  <summary><b> &nbsp;learning</b></summary>
   <br/>
 
 ![RL](https://img.shields.io/badge/REINFORCEMENT%20LEARNING-7F77DD.svg?&style=flat&logoColor=white) 
